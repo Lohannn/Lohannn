@@ -19,3 +19,7 @@
   <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="KOTLIN" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg">
 </div>
+
+##
+
+![SNAKE](https://github.com/Lohannn/Lohannn/blob/output/github-contribution-grid-snake.svg)

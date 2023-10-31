@@ -3,7 +3,7 @@
 - 📖 Estudando em SENAI JANDIRA
 - 💻 Aprendendo Back-end, Front-end, Mobile (Kotlin) e Banco de Dados
 - 👩‍💻 Mais voltado para Kotlin, JavaScript, Java, CSS e HTML.
-- 🤔 Contate-me no email: lohannes.s26@gmail.com
+- 🤔 Contate-me no email: lohannes18silva@gmail.com
 
 <div align="center">
   <a href="https://github.com/Lohannn">

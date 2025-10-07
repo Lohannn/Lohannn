@@ -1,8 +1,9 @@
 ### Olá! Eu me chamo Lohannes!
 
-- 📖 Estudando em SENAI JANDIRA
-- 💻 Aprendendo Back-end, Front-end, Mobile (Kotlin) e Banco de Dados
-- 👩‍💻 Mais voltado para Kotlin, JavaScript, Java, CSS e HTML.
+- 📖 Estudando em FIAP - Paulista
+- 💻 Conhecimento em Back-End, Front-End, Mobile (Kotlin), Banco de Dados
+- 💻 Aprendendo C# em Unity, Modelagem e Animação em Maya e Texturização em Substance.
+- 👩‍💻 Mais voltado para C# e Javascript.
 - 🤔 Contate-me no email: lohannes18silva@gmail.com
 
 <div align="center">
